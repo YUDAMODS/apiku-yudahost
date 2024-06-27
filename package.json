@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/inirey/RESTAPI/issues"
   },
+  "engines": {
+  "node": "14.x"
+},
   "dependencies": {
     "axios": "^0.21.1",
     "base-64": "^1.0.0",
